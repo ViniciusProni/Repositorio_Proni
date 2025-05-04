@@ -1,0 +1,16 @@
+h1{
+  font-family: 'Consolas', serif;
+  font-size:55px;
+  color: #333;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+p{
+  font-family:'Courier New', Courier, monospace;
+  color: #000;
+  text-align: center;
+}
+body{
+  background-color:#D5D2B7;
+}
